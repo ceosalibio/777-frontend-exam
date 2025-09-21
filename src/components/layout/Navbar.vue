@@ -8,6 +8,7 @@
           alt="Logo"
           contain
           max-height="40"
+          
         />
       </v-toolbar-title>
 
